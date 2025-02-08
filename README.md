@@ -6,4 +6,4 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 <br/>
 <br/>
 ##Arithmetic Operations  
-- [Addition of numbers](src/IntegerAddition.java)
+- [Addition of numbers](IntegerAddition.java)
