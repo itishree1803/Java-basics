@@ -7,5 +7,6 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Division of two numbers](IntegerDivision.java)
 - [Percentage Calculator](PercentageCalculator.java)
 - [Expression Evaluator](ExpressionEvaluator.java)
-- [Equation Evaluator](EquationEvaluator.java)
-- [Even Odd Number](EvenOddNumber.java)
+- [Equation Evaluator](EquationEvaluator.ava)
+- [Even Odd Number Check](EvenOddNumber.java)
+- [Positive Negative Number Check](PositiveNegativeNumber)
