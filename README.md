@@ -10,3 +10,4 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Equation Evaluator](EquationEvaluator.ava)
 - [Even Odd Number Check](EvenOddNumber.java)
 - [Positive Negative Number Check](PositiveNegativeNumber)
+- [Age Grouping](AgeGrouping)
