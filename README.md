@@ -7,9 +7,11 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Division of two numbers](IntegerDivision.java)
 - [Percentage Calculator](PercentageCalculator.java)
 
-## Basic Algebric Operations
+## Algebric Operations
 - [Expression Evaluator](ExpressionEvaluator.java)
 - [Equation Evaluator](EquationEvaluator.java)
+
+## Conditional Operations
 - [Even Odd Number Check](EvenOddNumber.java)
 - [Positive Negative Number Check](PositiveNegativeNumber.java)
 - [Age Grouping](AgeGrouping.java)
