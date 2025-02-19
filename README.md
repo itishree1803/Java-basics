@@ -15,3 +15,4 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Even Odd Number Check](EvenOddNumber.java)
 - [Positive Negative Number Check](PositiveNegativeNumber.java)
 - [Age Grouping](AgeGrouping.java)
+- [Student Pass or Fail Checker](PassFailChecker.java)
