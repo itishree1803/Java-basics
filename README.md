@@ -16,3 +16,6 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Positive Negative Number Check](PositiveNegativeNumber.java)
 - [Age Grouping](AgeGrouping.java)
 - [Student Pass or Fail Checker](PassFailChecker.java)
+
+## Control Flow operations
+- [Sum of Even Numbers](EvenNumberSum.java)
