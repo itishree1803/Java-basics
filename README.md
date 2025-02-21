@@ -18,5 +18,5 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Student Pass or Fail Checker](PassFailChecker.java)
 
 ## Control Flow operations
-- [Sum of Natural Numbers](NaturalNumnerSum.java)
+- [Sum of Natural Numbers](NaturalNumberSum.java)
 - [Sum of Even Numbers](EvenNumberSum.java)
