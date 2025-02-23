@@ -21,4 +21,4 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 ## Control Flow operations
 - [Sum of Natural Numbers](NaturalNumberSum.java)
 - [Sum of Even Numbers](EvenNumberSum.java)
-- [Printing 'Hello Guys' 5](HelloGuys.java) 
+- [Printing 'Hello Guys' 5 times](HelloGuys.java) 
