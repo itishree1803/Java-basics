@@ -23,3 +23,4 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Sum of Even Numbers](EvenNumberSum.java)
 - [Printing 'Hello Guys' 5 times](HelloGuys.java)
 - [Printing Pattern](PrintPattern.java)
+- [Multiplication Table](MultiplicationTable.java)
