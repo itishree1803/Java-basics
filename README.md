@@ -24,3 +24,4 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Printing 'Hello Guys' 5 times](HelloGuys.java)
 - [Printing Pattern](PrintPattern.java)
 - [Multiplication Table](MultiplicationTable.java)
+- [Sum of Digits of a Number](SumOfDigits.java) 
