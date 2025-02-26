@@ -25,4 +25,5 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Printing Pattern](PrintPattern.java)
 - [Multiplication Table](MultiplicationTable.java)
 - [Sum of Digits of a Number](SumOfDigits.java) 
-- [Reverse Multiplication Table](ReverseTable.java) 
+- [Reverse Multiplication Table](ReverseTable.java)
+- [Factorial of any number](FindFactorial.java) 
