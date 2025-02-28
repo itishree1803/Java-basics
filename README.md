@@ -17,6 +17,7 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Age Grouping](AgeGrouping.java)
 - [Student Pass or Fail Checker](PassFailChecker.java)
 - [Number divisible by 3 or not](NumberConditions.java)
+- [Leap Year Checker](LeapYearCheck.java) 
 
 ## Control Flow operations
 - [Sum of Natural Numbers](NaturalNumberSum.java)
