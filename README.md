@@ -19,7 +19,7 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Number divisible by 3 or not](NumberConditions.java)
 - [Leap Year Checker](LeapYearCheck.java) 
 
-## Control Flow operations
+## Control Flow Operations
 - [Sum of Natural Numbers](NaturalNumberSum.java)
 - [Sum of Even Numbers](EvenNumberSum.java)
 - [Printing 'Hello Guys' 5 times](HelloGuys.java)
@@ -30,3 +30,6 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Factorial of any number](FindFactorial.java)
 - [Palindrome Number](PalindromeNumber.java)
 - [Palindrome Word](PalindromeWord.java)
+
+## Array Operations 
+- [Sum and Average of an Array](SumAverage.java) 
