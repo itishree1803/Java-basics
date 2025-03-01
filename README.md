@@ -30,6 +30,3 @@ A beginner-friendly collection of fundamental Java Programs which is perfect for
 - [Factorial of any number](FindFactorial.java)
 - [Palindrome Number](PalindromeNumber.java)
 - [Palindrome Word](PalindromeWord.java)
-
-## Array Operations 
-- [Sum and Average of an Array](SumAverage.java) 
